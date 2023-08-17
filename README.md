@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a undergraduate student with a keen interest in **Computer Vision**.  
-My focus lies in the areas of pose estimation, facial analysis, and multimodal perception.
+I'm a undergraduate student with a keen interest in **AI**.  
+My focus lies in the areas of pose estimation, facial analysis, and multimodal learning.
 
 
 #### 🧰 Skills
